@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light">#ddd</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="primary">#333333</color>
+    <color name="dark">#2b2b2b</color>
+    <color name="darkBlack">#252525</color>
+    <color name="purple">#9876aa</color>
+    <color name="cyan">#6897bb</color>
+    <color name="error">#FF0000</color>
+</resources>
